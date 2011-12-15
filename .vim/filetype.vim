@@ -12,6 +12,9 @@ au BufNewFile,BufRead *.thrift		setf thrift
 " Go
 au BufNewFile,BufRead *.go		setf go
 
+" Titanium Mobile kranium framework
+au BufNewFile,BufRead *.kss		setf css
+
 " Associate unknown filetypes
 augroup filetypedetect
     au! BufRead,BufNewFile *.vm 	setfiletype html
