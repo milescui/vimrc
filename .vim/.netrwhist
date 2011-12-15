@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Volumes/Other/Dropbox/Dropbox/Work/tryTornado'
+let g:netrw_dirhist_2='/Users/miles'
+let g:netrw_dirhist_3='/Users'
+let g:netrw_dirhist_4='/Users/miles'
+let g:netrw_dirhist_5='/Users/miles/Documents/testAndroid'
+let g:netrw_dirhist_6='/Volumes/miles/work/pop'
